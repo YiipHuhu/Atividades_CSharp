@@ -1,0 +1,14 @@
+C:\programação\Trabalho taffee\sorteador\bin\Debug\net7.0\sorteador.exe
+C:\programação\Trabalho taffee\sorteador\bin\Debug\net7.0\sorteador.deps.json
+C:\programação\Trabalho taffee\sorteador\bin\Debug\net7.0\sorteador.runtimeconfig.json
+C:\programação\Trabalho taffee\sorteador\bin\Debug\net7.0\sorteador.dll
+C:\programação\Trabalho taffee\sorteador\bin\Debug\net7.0\sorteador.pdb
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.AssemblyInfoInputs.cache
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.AssemblyInfo.cs
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.csproj.CoreCompileInputs.cache
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.dll
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\refint\sorteador.dll
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.pdb
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\sorteador.genruntimeconfig.cache
+C:\programação\Trabalho taffee\sorteador\obj\Debug\net7.0\ref\sorteador.dll
