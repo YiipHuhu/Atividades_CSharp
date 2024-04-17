@@ -1,0 +1,42 @@
+c:\programação\csharp\bin\Debug\net7.0\csharp.exe
+c:\programação\csharp\bin\Debug\net7.0\csharp.deps.json
+c:\programação\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+c:\programação\csharp\bin\Debug\net7.0\csharp.dll
+c:\programação\csharp\bin\Debug\net7.0\csharp.pdb
+c:\programação\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\programação\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+c:\programação\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+c:\programação\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+c:\programação\csharp\obj\Debug\net7.0\csharp.dll
+c:\programação\csharp\obj\Debug\net7.0\refint\csharp.dll
+c:\programação\csharp\obj\Debug\net7.0\csharp.pdb
+c:\programação\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+c:\programação\csharp\obj\Debug\net7.0\ref\csharp.dll
+C:\programação\7exercicios\bin\Debug\net7.0\csharp.exe
+C:\programação\7exercicios\bin\Debug\net7.0\csharp.deps.json
+C:\programação\7exercicios\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\programação\7exercicios\bin\Debug\net7.0\csharp.dll
+C:\programação\7exercicios\bin\Debug\net7.0\csharp.pdb
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.dll
+C:\programação\7exercicios\obj\Debug\net7.0\refint\csharp.dll
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.pdb
+C:\programação\7exercicios\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\programação\7exercicios\obj\Debug\net7.0\ref\csharp.dll
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\csharp.exe
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\csharp.deps.json
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\csharp.dll
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\csharp.pdb
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.dll
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\refint\csharp.dll
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.pdb
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\programação\Trabalho taffee\1.exe de todos os exercicios juntos\obj\Debug\net7.0\ref\csharp.dll

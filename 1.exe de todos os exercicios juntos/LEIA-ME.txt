@@ -1,0 +1,3 @@
+\Trabalho taffee\1.exe de todos os exercicios juntos\bin\Debug\net7.0\Csharp.exe
+
+esse é o executavel do programa
