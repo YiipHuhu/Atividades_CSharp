@@ -1,0 +1,14 @@
+C:\programação\teste vogal\bin\Debug\net7.0\teste vogal.exe
+C:\programação\teste vogal\bin\Debug\net7.0\teste vogal.deps.json
+C:\programação\teste vogal\bin\Debug\net7.0\teste vogal.runtimeconfig.json
+C:\programação\teste vogal\bin\Debug\net7.0\teste vogal.dll
+C:\programação\teste vogal\bin\Debug\net7.0\teste vogal.pdb
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.AssemblyInfoInputs.cache
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.AssemblyInfo.cs
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.csproj.CoreCompileInputs.cache
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.dll
+C:\programação\teste vogal\obj\Debug\net7.0\refint\teste vogal.dll
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.pdb
+C:\programação\teste vogal\obj\Debug\net7.0\teste vogal.genruntimeconfig.cache
+C:\programação\teste vogal\obj\Debug\net7.0\ref\teste vogal.dll
