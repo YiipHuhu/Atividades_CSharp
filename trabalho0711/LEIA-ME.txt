@@ -1,0 +1,8 @@
+Antes de tudo, verificar se possui o dotnet sdk 7.0 instalado
+
+voce pode baixar em: https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/runtime-desktop-7.0.11-windows-x86-installer?cid=getdotnetcore
+
+Para executar o programa via console, acesse a pasta \bin\Debug\net7.0\ e execute o arquivo "trabalho0711.exe"
+Caso queira coferir o codigo usado, usando o Visual Studio, abra o arquivo "Program" na pasta onde voce encontrou este documento de texto.
+
+Alan Gabriel Giacomoni Przyvara RA: 00249693

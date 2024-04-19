@@ -1,0 +1,14 @@
+D:\Trabalho taffee\trabalho0711\bin\Debug\net7.0\trabalho0711.exe
+D:\Trabalho taffee\trabalho0711\bin\Debug\net7.0\trabalho0711.deps.json
+D:\Trabalho taffee\trabalho0711\bin\Debug\net7.0\trabalho0711.runtimeconfig.json
+D:\Trabalho taffee\trabalho0711\bin\Debug\net7.0\trabalho0711.dll
+D:\Trabalho taffee\trabalho0711\bin\Debug\net7.0\trabalho0711.pdb
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.AssemblyInfoInputs.cache
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.AssemblyInfo.cs
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.csproj.CoreCompileInputs.cache
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.dll
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\refint\trabalho0711.dll
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.pdb
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\trabalho0711.genruntimeconfig.cache
+D:\Trabalho taffee\trabalho0711\obj\Debug\net7.0\ref\trabalho0711.dll
